@@ -10,6 +10,7 @@
                 "-Wall",
                 "-Wextra",
                 "-g",
+                "-fexec-charset=CP850",
                 "${file}",
                 "-o",
                 "${fileDirname}\\${fileBasenameNoExtension}.exe"

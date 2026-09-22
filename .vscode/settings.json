@@ -1,4 +1,8 @@
 {
+    "code-runner.executorMap": {
+        "c": "cd $dir && C:\\msys64\\ucrt64\\bin\\gcc.exe $fileName -o $fileNameWithoutExt.exe -Wall -Wextra -g -fexec-charset=CP850 && $dir$fileNameWithoutExt.exe",
+        "cpp": "cd $dir && C:\\msys64\\ucrt64\\bin\\g++.exe $fileName -o $fileNameWithoutExt.exe -Wall -Wextra -g -fexec-charset=CP850 && $dir$fileNameWithoutExt.exe"
+    },
     "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
     "C_Cpp.default.intelliSenseMode": "windows-gcc-x64",
     "C_Cpp.default.cStandard": "c17",
