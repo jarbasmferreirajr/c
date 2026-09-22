@@ -1,0 +1,10 @@
+# Binários compilados
+*.exe
+*.o
+*.obj
+
+# Lixo do Code Runner
+tempCodeRunnerFile.*
+
+# Sistema
+Thumbs.db
