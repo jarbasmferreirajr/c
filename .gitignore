@@ -8,3 +8,7 @@ tempCodeRunnerFile.*
 
 # Sistema
 Thumbs.db
+
+# Arquivos compactados
+*.rar
+*.zip
