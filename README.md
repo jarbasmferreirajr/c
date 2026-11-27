@@ -10,6 +10,7 @@
 | [Exercicios_Avulsos_em_C](Exercicios_Avulsos_em_C) | Funções, condicionais e primeiros cadastros com `struct` |
 | [Simulado_da_1_Prova_de_Prog.Estruturada_em_C](Simulado_da_1_Prova_de_Prog.Estruturada_em_C) | Simulado da 1ª prova de Programação Estruturada |
 | [Exercicios_de_Ponteiros_em_C](Exercicios_de_Ponteiros_em_C) | Ponteiros, passagem por referência e aritmética de ponteiros |
+| [Exercicios_de_Alocacao_de_Memoria_em_C](Exercicios_de_Alocacao_de_Memoria_em_C) | Alocação dinâmica com `malloc`, `calloc`, `realloc` e `free` |
 
 Cada pasta tem um README com a lista dos exercícios.
 
